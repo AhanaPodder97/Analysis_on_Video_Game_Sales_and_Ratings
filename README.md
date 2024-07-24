@@ -9,3 +9,5 @@ This project provide an in-depth view into the dynamic world of video games, off
 •	https://public.tableau.com/app/profile/ahana.podder/viz/AnalysisofVideoGames/VideoGamesAnalyticsDashboard2?publish=yes
 
 ![Screenshot 2024-07-21 014724](https://github.com/user-attachments/assets/267f2540-1f69-4b26-ac14-a01b4f779cc1)
+
+![Screenshot 2024-07-21 014804](https://github.com/user-attachments/assets/a59d35c1-b531-49de-b715-38ecedae6426)
