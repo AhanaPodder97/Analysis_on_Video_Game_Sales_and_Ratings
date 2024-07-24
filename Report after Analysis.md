@@ -10,6 +10,10 @@
 
 ![Screenshot 2024-07-23 024639](https://github.com/user-attachments/assets/5ab3c656-da6e-41a0-ac0e-5287d325f80c)
 
+![Screenshot 2024-07-21 015235](https://github.com/user-attachments/assets/dfd9779d-fc8d-4cef-8f68-a8aa6880a3e3)
+
+![Screenshot 2024-07-21 015042](https://github.com/user-attachments/assets/92cd63e9-003f-4d34-9c71-3fa3ea317fbb)
+
 ### I have found that: ###
 
 •	Most of the games are created by PS2 and X360
