@@ -4,9 +4,9 @@
 •	Importing dataset in CSV format from Kaggle into Excel
 
 ## 2.	Data Cleaning and Transformation ##
-•	Check and Remove duplicates
+•	Check and Remove duplicates using Conditional Formatting option present in Excel
 
-•	Handling missing values by removing them for better reading and analysis as they are raw data imported from Kaggle can’t add any values of our own
+•	Handling missing values by either removing them for better reading and analysis as they are raw data imported from Kaggle can’t add any values of our own or addidng 0 when the data type is numeric or filling the empty text values as 'Not Available'
 
 •	Correct data types
 
