@@ -11,6 +11,7 @@ To view the dashboard click on the link:
 •	[Dashboard 2]( https://public.tableau.com/app/profile/ahana.podder/viz/EvolutionofVideoGames/VideoGamesAnalyticsDashboard2?publish=yes)
 
 
-![Screenshot 2024-07-21 014724](https://github.com/user-attachments/assets/267f2540-1f69-4b26-ac14-a01b4f779cc1)
+![Screenshot 2024-08-09 135128](https://github.com/user-attachments/assets/489012ea-dab1-4fc2-8e44-602d1b741006)
 
-![Screenshot 2024-07-21 014804](https://github.com/user-attachments/assets/a59d35c1-b531-49de-b715-38ecedae6426)
+![Screenshot 2024-08-10 010756](https://github.com/user-attachments/assets/64359afd-b6fe-405d-8f3b-fb146aa5b1cf)
+
